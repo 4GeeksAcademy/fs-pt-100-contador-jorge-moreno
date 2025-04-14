@@ -1,11 +1,107 @@
-/* 
+.Contador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 20%;
+    border-radius: 10px;
+    margin-top: 40px;
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+.reloj {
+    font-size: 80px;
+    color: white;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.digitoUno {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    color: #0f0;
+    font-size: 50px;
+    padding: 20px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 0 10px #0f0;
+
+}
+.digitoDos {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    color: #0f0;
+    font-size: 50px;
+    padding: 20px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 0 10px #0f0;
+
+}
+.digitoTres {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    color: #0f0;
+    font-size: 50px;
+    padding: 20px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 0 10px #0f0;
+}
+
+.digitoCuatro {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    color: #0f0;
+    font-size: 50px;
+    padding: 20px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 0 10px #0f0;
+}
+.digitoCinco {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    color: #0f0;
+    font-size: 50px;
+    padding: 20px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 0 10px #0f0;
+
+}
+.digitoSeis {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    color: #0f0;
+    font-size: 50px;
+    padding: 20px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 0 10px #0f0;
+
+}
