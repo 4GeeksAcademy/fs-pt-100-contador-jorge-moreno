@@ -31,12 +31,12 @@ function cargaronload() {
 
     root.render(
       <SecondsCounter
-        digitoUno={digitoUno}
-        digitoDos={digitoDos}
-        digitoTres={digitoTres}
-        digitoCuatro={digitoCuatro}
-        digitoCinco={digitoCinco}
         digitoSeis={digitoSeis}
+        digitoCinco={digitoCinco}
+        digitoCuatro={digitoCuatro}
+        digitoTres={digitoTres}
+        digitoDos={digitoDos}
+        digitoUno={digitoUno}
       />
     )
   }, 1000);
